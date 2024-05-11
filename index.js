@@ -30,7 +30,7 @@ function getRandomCard(){
 }
 
 function startGame(){
-    alert("Hint: Your cards gotta sum up to 51 to hit the Blackjack! \n\n\nYou've got 10 moves.😎")
+    alert("Hint: Your cards gotta sum up to 51 to hit the Blackjack! \n\n\nYou've got 10 moves. 😎")
     alert('Once you win, kindly send a screenshot of your full screen to "+2348181010186" 🤡 ...\n\n\nGoodluck Champ! 💪🥳')
 
 
